@@ -1,0 +1,116 @@
+Kullanici Nesneler  ---------- Bilgisayar Nesneler
+prolab2.Makas@75dd379c--------prolab2.Makas@20b7487
+prolab2.Kagit@6b5d8d32--------prolab2.Makas@420be5d2
+prolab2.Tas@5ef65bd8--------prolab2.Makas@700a3cd
+prolab2.Makas@b39a02--------prolab2.Makas@1d8bcab3
+prolab2.Kagit@71cf7a41--------prolab2.Tas@7353a17e
+
+
+1'nci round :              
+Kullanıcı Nesnesi : prolab2.Kagit@71cf7a41   dayaniklilik : 20.0 aldığı hasar -5.0   yeni dayanıklılığı :     15.0
+Bilgisayar nesnesi : prolab2.Makas@20b7487   dayaniklilik : 20.0 aldığı hasar -1.25   yeni dayanıklılığı :     18.75
+
+2'nci round :              
+Kullanıcı Nesnesi : prolab2.Kagit@6b5d8d32   dayaniklilik : 20.0 aldığı hasar -5.0   yeni dayanıklılığı :     15.0
+Bilgisayar nesnesi : prolab2.Makas@420be5d2   dayaniklilik : 20.0 aldığı hasar -1.25   yeni dayanıklılığı :     18.75
+
+3'nci round :              
+Kullanıcı Nesnesi : prolab2.Tas@5ef65bd8   dayaniklilik : 20.0 aldığı hasar -1.25   yeni dayanıklılığı :     18.75
+Bilgisayar nesnesi : prolab2.Makas@700a3cd   dayaniklilik : 20.0 aldığı hasar -5.0   yeni dayanıklılığı :     15.0
+
+4'nci round :              
+Kullanıcı Nesnesi : prolab2.Makas@b39a02   dayaniklilik : 20.0 aldığı hasar -2.0   yeni dayanıklılığı :     18.0
+Bilgisayar nesnesi : prolab2.Makas@1d8bcab3   dayaniklilik : 20.0 aldığı hasar -2.0   yeni dayanıklılığı :     18.0
+
+5'nci round :              
+Kullanıcı Nesnesi : prolab2.Makas@75dd379c   dayaniklilik : 20.0 aldığı hasar -5.0   yeni dayanıklılığı :     15.0
+Bilgisayar nesnesi : prolab2.Tas@7353a17e   dayaniklilik : 20.0 aldığı hasar -1.25   yeni dayanıklılığı :     18.75
+
+6'nci round :              
+Kullanıcı Nesnesi : prolab2.Kagit@6b5d8d32   dayaniklilik : 15.0 aldığı hasar -5.0   yeni dayanıklılığı :     10.0
+Bilgisayar nesnesi : prolab2.Makas@20b7487   dayaniklilik : 18.75 aldığı hasar -1.25   yeni dayanıklılığı :     17.5
+prolab2.Makas@20b7487 seviye atlayıp prolab2.UstaMakas@69b5d8b4e dönüşmüştür
+
+
+7'nci round :              
+Kullanıcı Nesnesi : prolab2.Tas@5ef65bd8   dayaniklilik : 18.75 aldığı hasar -1.25   yeni dayanıklılığı :     17.5
+Bilgisayar nesnesi : prolab2.Makas@700a3cd   dayaniklilik : 15.0 aldığı hasar -5.0   yeni dayanıklılığı :     10.0
+prolab2.Tas@5ef65bd8seviye atlayıp prolab2.AgirTas@606c4c5ce dönüşmüştür
+
+
+8'nci round :              
+Kullanıcı Nesnesi : prolab2.Makas@b39a02   dayaniklilik : 18.0 aldığı hasar -2.0   yeni dayanıklılığı :     16.0
+Bilgisayar nesnesi : prolab2.Makas@420be5d2   dayaniklilik : 18.75 aldığı hasar -2.0   yeni dayanıklılığı :     16.75
+
+9'nci round :              
+Kullanıcı Nesnesi : prolab2.Kagit@71cf7a41   dayaniklilik : 15.0 aldığı hasar -5.0   yeni dayanıklılığı :     10.0
+Bilgisayar nesnesi : prolab2.Makas@1d8bcab3   dayaniklilik : 18.0 aldığı hasar -1.25   yeni dayanıklılığı :     16.75
+
+10'nci round :              
+Kullanıcı Nesnesi : prolab2.Makas@75dd379c   dayaniklilik : 15.0 aldığı hasar -5.0   yeni dayanıklılığı :     10.0
+Bilgisayar nesnesi : prolab2.Tas@7353a17e   dayaniklilik : 18.75 aldığı hasar -1.25   yeni dayanıklılığı :     17.5
+prolab2.Tas@7353a17e seviye atlayıp prolab2.AgirTas@5cec55d8e dönüşmüştür
+
+
+Kullanıcı skor : 63.5
+Bilgisayar skor : 78.5
+ KAZANAN BİLGİSAYAR!!!!!
+
+
+Kullanici Nesneler  ---------- Bilgisayar Nesneler
+prolab2.Tas@6488898c--------prolab2.Makas@3fc27116
+prolab2.Kagit@25ce0002--------prolab2.Makas@5a0a059e
+prolab2.Makas@7a6e33ba--------prolab2.Kagit@5608b720
+prolab2.Kagit@31363f3--------prolab2.Tas@9bfa0fa
+prolab2.Tas@247b194--------prolab2.Kagit@11e5b74b
+
+
+1'nci round :              
+Kullanıcı Nesnesi : prolab2.Tas@247b194   dayaniklilik : 20.0 aldığı hasar -1.25   yeni dayanıklılığı :     18.75
+Bilgisayar nesnesi : prolab2.Makas@3fc27116   dayaniklilik : 20.0 aldığı hasar -5.0   yeni dayanıklılığı :     15.0
+
+2'nci round :              
+Kullanıcı Nesnesi : prolab2.Kagit@31363f3   dayaniklilik : 20.0 aldığı hasar -5.0   yeni dayanıklılığı :     15.0
+Bilgisayar nesnesi : prolab2.Makas@5a0a059e   dayaniklilik : 20.0 aldığı hasar -1.25   yeni dayanıklılığı :     18.75
+
+3'nci round :              
+Kullanıcı Nesnesi : prolab2.Kagit@25ce0002   dayaniklilik : 20.0 aldığı hasar -2.0   yeni dayanıklılığı :     18.0
+Bilgisayar nesnesi : prolab2.Kagit@5608b720   dayaniklilik : 20.0 aldığı hasar -2.0   yeni dayanıklılığı :     18.0
+
+4'nci round :              
+Kullanıcı Nesnesi : prolab2.Makas@7a6e33ba   dayaniklilik : 20.0 aldığı hasar -5.0   yeni dayanıklılığı :     15.0
+Bilgisayar nesnesi : prolab2.Tas@9bfa0fa   dayaniklilik : 20.0 aldığı hasar -1.25   yeni dayanıklılığı :     18.75
+
+5'nci round :              
+Kullanıcı Nesnesi : prolab2.Tas@6488898c   dayaniklilik : 20.0 aldığı hasar -5.0   yeni dayanıklılığı :     15.0
+Bilgisayar nesnesi : prolab2.Kagit@11e5b74b   dayaniklilik : 20.0 aldığı hasar -1.25   yeni dayanıklılığı :     18.75
+
+6'nci round :              
+Kullanıcı Nesnesi : prolab2.Kagit@25ce0002   dayaniklilik : 18.0 aldığı hasar -2.0   yeni dayanıklılığı :     16.0
+Bilgisayar nesnesi : prolab2.Kagit@11e5b74b   dayaniklilik : 18.75 aldığı hasar -2.0   yeni dayanıklılığı :     16.75
+
+7'nci round :              
+Kullanıcı Nesnesi : prolab2.Makas@7a6e33ba   dayaniklilik : 15.0 aldığı hasar -1.25   yeni dayanıklılığı :     13.75
+Bilgisayar nesnesi : prolab2.Kagit@5608b720   dayaniklilik : 18.0 aldığı hasar -5.0   yeni dayanıklılığı :     13.0
+
+8'nci round :              
+Kullanıcı Nesnesi : prolab2.Kagit@31363f3   dayaniklilik : 15.0 aldığı hasar -5.0   yeni dayanıklılığı :     10.0
+Bilgisayar nesnesi : prolab2.Makas@5a0a059e   dayaniklilik : 18.75 aldığı hasar -1.25   yeni dayanıklılığı :     17.5
+prolab2.Makas@5a0a059e seviye atlayıp prolab2.UstaMakas@6cb99ea5e dönüşmüştür
+
+
+9'nci round :              
+Kullanıcı Nesnesi : prolab2.Tas@247b194   dayaniklilik : 18.75 aldığı hasar -1.25   yeni dayanıklılığı :     17.5
+Bilgisayar nesnesi : prolab2.Makas@3fc27116   dayaniklilik : 15.0 aldığı hasar -5.0   yeni dayanıklılığı :     10.0
+prolab2.Tas@247b194seviye atlayıp prolab2.AgirTas@640f2b4de dönüşmüştür
+
+
+10'nci round :              
+Kullanıcı Nesnesi : prolab2.Tas@6488898c   dayaniklilik : 15.0 aldığı hasar -2.0   yeni dayanıklılığı :     13.0
+Bilgisayar nesnesi : prolab2.Tas@9bfa0fa   dayaniklilik : 18.75 aldığı hasar -2.0   yeni dayanıklılığı :     16.75
+
+Kullanıcı skor : 70.25
+Bilgisayar skor : 74.0
+ KAZANAN BİLGİSAYAR!!!!!
+
+
